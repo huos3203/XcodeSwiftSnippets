@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>exp UIView *$view=(UIView *)0x147b9d20
+exp UITableView *$qw=(UITableView*)0x147b9d20
+exp -- (void)[$view setFrame:CGRectMake(0 ,$qw.contentSize.height-50, 320, 30)]
+caflush</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2DD7A2FE-646A-4BD2-9213-DDD0E544E1A3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>lldb更新UI</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>phv</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>page &lt;#hpages#&gt;x&lt;#vpages#&gt;
+skinparam pageMargin &lt;#5#&gt;
+skinparam pageExternalColor &lt;#blue#&gt;
+skinparam pageBorderColor &lt;#black#&gt;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2EF08494-BC43-4712-BD28-E7712F194E67</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>把一张uml图拆分为指定的块数</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml拆分大文件</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

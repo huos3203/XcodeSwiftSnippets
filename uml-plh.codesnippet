@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>plh</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>&lt;#object1#&gt;"&lt;#基数#&gt;" &lt;#节点符#&gt; &lt;#left/right..#&gt;&lt;#[#线色]#&gt;-&lt;#节点符#&gt; "&lt;#基数#&gt;"&lt;#object2#&gt;:&lt;#消息#&gt; &gt;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>187953E5-7CF4-428F-85D3-E078C08A7351</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>macosx</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>关系节点符:(|&gt;)继承,(*)合成 ,(o)聚合, 其他#,x,},+,^ 连线符:(--)实线 ，(..)虚线
+支持类关系，对象关系，模块关系</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>puml水平关系连线</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
